@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { CustonRadioButton } from './CustonRadioButton';
 
-const H1 = styled.div`
+const H1 = styled.h1`
   font-family: 'apple sd gothic neo';
 `;
 

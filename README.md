@@ -2,4 +2,4 @@
 
 ## example
 
-<http://blog.doitreviews.com/custom-radio-button/>
+<https://blog.doitreviews.com/custom-radio-button/>
